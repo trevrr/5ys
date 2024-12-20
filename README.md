@@ -1,8 +1,9 @@
 # 5 Why's Root Cause Analysis Tool
 
-This is a playground application just to see how to build a Bolt type application with vite, typescript and react. I'm alwyas looking for a nice five why's template. So if you find this useful then please enjoy. There's no support. Do what you will with it.
+This is a playground application just to see how to build a Bolt type application with vite, typescript and react. I'm always looking for a nice five why's template.
+So if you find this useful then please enjoy but let me know. There's no support. Do what you will with it.
 
-It's just for fun.
+It's just for fun. Just build for dist and edit the index to make it work in a subdirectory.
 
 ## Deployment Instructions
 
